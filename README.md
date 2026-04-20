@@ -1,4 +1,4 @@
-# X-Thread  node start-dev.js
+# X-Thread 
 
 西交利物浦大学小组讨论平台，围绕“房间讨论 + AI 辅助 + 实时协作”构建。当前仓库包含房间大厅、阶段化讨论、思维导图、白板、共享文件、房间历史、账号设置和 companion bot 等能力。
 
@@ -77,6 +77,7 @@ docker compose up -d
 ```bash
 pnpm dev
 ```
+node start-dev.js
 
 首次运行时，如果 `backend/.env` 不存在，启动脚本会自动从根目录 `.env.example` 生成默认配置。
 
