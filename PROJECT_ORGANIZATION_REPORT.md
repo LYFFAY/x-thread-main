@@ -1,0 +1,3 @@
+# 文档已归档
+
+正式文档已移动到 [docs/PROJECT_ORGANIZATION_REPORT.md](docs/PROJECT_ORGANIZATION_REPORT.md)。
